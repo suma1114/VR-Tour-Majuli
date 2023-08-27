@@ -1,0 +1,51 @@
+4
+Rawanapar
+R325,R328,-1,-1,-1,262.5
+R328,R331,-1,R325,-1,-70
+R331,-1,-1,R328,-1,270
+Nayabazar
+NB1,NB4,-1,-1,-1,0
+NB4,NB7,-1,NB1,-1,0
+NB7,NB9,-1,NB4,-1,90
+NB9,-1,-1,NB7,-1,90
+Jugundhari Road
+R674,R675,-1,-1,-1,0
+R675,-1,-1,R674,-1,0
+Kamalabari Town
+KC (1)-min,KC (25)-min,KC (18)-min,KC (2)-min,KC (8)-min,0
+KC (25)-min,KC (26)-min,-1,KC (1)-min,-1,0
+KC (26)-min,KC (27)-min,-1,KC (25)-min,-1,0
+KC (27)-min,KC (28)-min,-1,KC (26)-min,-1,0
+KC (28)-min,KC (29)-min,-1,KC (27)-min,-1,0
+KC (29)-min,KC (30)-min,-1,KC (28)-min,-1,0
+KC (30)-min,KC (31)-min,-1,KC (29)-min,-1,0
+KC (31)-min,KC (32)-min,-1,KC (30)-min,-1,0
+KC (32)-min,KC (33)-min,-1,KC (31)-min,-1,0
+KC (33)-min,KC (34)-min,-1,KC (32)-min,-1,0
+KC (34)-min,KC (35)-min,-1,KC (33)-min,-1,0
+KC (35)-min,KC (36)-min,-1,KC (34)-min,-1,0
+KC (36)-min,KC (37)-min,-1,KC (35)-min,-1,0
+KC (37)-min,-1,-1,KC (36)-min,-1,0
+KC (8)-min,-1,KC (1)-min,-1,KC (9)-min,0
+KC (9)-min,-1,KC (8)-min,-1,KC (10)-min,0
+KC (10)-min,-1,KC (9)-min,-1,KC (11)-min,0
+KC (11)-min,-1,KC (10)-min,-1,KC (12)-min,0
+KC (12)-min,-1,KC (11)-min,-1,KC (13)-min,0
+KC (13)-min,-1,KC (12)-min,-1,KC (14)-min,0
+KC (14)-min,-1,KC (13)-min,-1,KC (15)-min,0
+KC (15)-min,-1,KC (14)-min,-1,KC (16)-min,0
+KC (16)-min,-1,KC (15)-min,-1,KC (17)-min,0
+KC (17)-min,-1,KC (16)-min,-1,-1,0
+KC (18)-min,-1,KC (19)-min,-1,KC (1)-min,0
+KC (19)-min,-1,KC (20)-min,-1,KC (18)-min,0
+KC (20)-min,-1,KC (21)-min,-1,KC (19)-min,0
+KC (21)-min,-1,KC (22)-min,-1,KC (20)-min,0
+KC (22)-min,-1,KC (23)-min,-1,KC (21)-min,0
+KC (23)-min,-1,KC (24)-min,-1,KC (22)-min,0
+KC (24)-min,-1,-1,-1,KC (23)-min,0
+KC (2)-min,KC (1)-min,-1,KC (3)-min,-1,0
+KC (3)-min,KC (2)-min,-1,KC (4)-min,-1,0
+KC (4)-min,KC (3)-min,-1,KC (5)-min,-1,0
+KC (5)-min,KC (4)-min,-1,KC (6)-min,-1,0
+KC (6)-min,KC (5)-min,-1,KC (7)-min,-1,0
+KC (7)-min,KC (6)-min,-1,-1,-1,0
